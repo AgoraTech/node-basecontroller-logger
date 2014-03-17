@@ -1,0 +1,15 @@
+{
+  "name": "basecontroller-logger",
+  "version": "0.1.0",
+  "description": "Simple logger used by BaseController!",
+  "main": "lib/logger.js",
+  "repository": "git://github.com/AgoraTech/node-basecontroller-logger.git",
+  "homepage": "https://github.com/AgoraTech/node-basecontroller",
+  "author": {
+    "name": "Agora SA"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "logstream": ">=0.1.0"
+  }
+}
