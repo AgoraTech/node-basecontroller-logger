@@ -1,5 +1,5 @@
-BaseController HTTP
-=====================
+BaseController Logger
+=======================
 
 A simple logger used by BaseController
 
